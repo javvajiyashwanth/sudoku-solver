@@ -67,5 +67,8 @@ def solve(a):
     return False
 
 a = [list(map(int, input().split())) for _ in range(9)]
-solve(a)
-print_sudoku(a)
+print()
+if solve(a):
+    print_sudoku(a)
+else:
+    print("No solution exists")
