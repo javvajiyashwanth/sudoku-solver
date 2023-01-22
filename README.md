@@ -49,8 +49,8 @@ Output:
 ```
 
 ## Note
-This code uses a backtracking algorithm to solve the sudoku puzzle which may not be the most efficient one, but it works.
-Also, some of the test cases that have multiple solutions or no solutions, it will not work properly.
+- This code uses a backtracking algorithm to solve the sudoku puzzle which may not be the most efficient one, but it works.
+- Also, some of the test cases that have multiple solutions or no solutions, it will not work properly.
 
 ## Conclusion
 This program provides a simple and straightforward solution to solving a Sudoku puzzle using backtracking algorithm. It can be used as a reference for understanding how a backtracking algorithm works and can be further optimized for better performance.
